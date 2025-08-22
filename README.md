@@ -42,7 +42,7 @@ A comprehensive tool for dominating your 12-team PPR fantasy football draft, fea
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fantasy-football-assistant.git
+   git clone https://github.com/evansmelser/fantasy-football-assistant.git
    cd fantasy-football-assistant
    ```
 
@@ -224,9 +224,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Having issues? Check out:
 
-1. **[Issues](https://github.com/yourusername/fantasy-football-assistant/issues)** - Report bugs or request features
-2. **[Wiki](https://github.com/yourusername/fantasy-football-assistant/wiki)** - Detailed documentation
-3. **[Discussions](https://github.com/yourusername/fantasy-football-assistant/discussions)** - Community support
+1. **[Issues](https://github.com/evansmelser/fantasy-football-assistant/issues)** - Report bugs or request features
+2. **[Wiki](https://github.com/evansmelser/fantasy-football-assistant/wiki)** - Detailed documentation
+3. **[Discussions](https://github.com/evansmelser/fantasy-football-assistant/discussions)** - Community support
 
 ---
 
