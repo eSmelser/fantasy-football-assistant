@@ -1,0 +1,24 @@
+# Core dependencies
+sqlite3  # Built into Python, listed for documentation
+
+# Development dependencies (install with: pip install -r requirements-dev.txt)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0
+# pre-commit>=2.20.0
+
+# Future web dependencies
+# flask>=2.3.0
+# flask-sqlalchemy>=3.0.0
+# gunicorn>=20.1.0
+
+# Future ML/AI dependencies  
+# scikit-learn>=1.3.0
+# pandas>=2.0.0
+# numpy>=1.24.0
+
+# Future API dependencies
+# requests>=2.31.0
+# beautifulsoup4>=4.12.0
